@@ -1,0 +1,7 @@
+{
+  "name": "ExamBD - Online Exam & Mock Test Platform",
+  "description": "বাংলাদেশের সকল প্রতিযোগিতামূলক পরীক্ষার জন্য অনলাইন মক টেস্ট, প্রশ্নব্যাংক ও প্র্যাকটিসের সেরা প্ল্যাটফর্ম। BCS, Admission, SSC, HSC সহ সকল পরীক্ষার প্রস্তুতি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
